@@ -1,2 +1,3 @@
 # PrivTestInfra
-Private infrastructure for test purposes (Latest versions of Hyper-v, Windows Server, SQL, Exchange, ...)
+
+This module is inteded to create a private test infrastructure on top of Hyper-V 2019.
